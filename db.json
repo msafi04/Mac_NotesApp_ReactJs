@@ -3,7 +3,7 @@
     {
       "id": 1,
       "body": "- Learn React - Teaching ReactJS live! In this stream I will complete\n- Learn Django\n- Call Vengat\n- Learn Django\n- Buy manga\n- Learn",
-      "updated": "2022-09-01T04:00:27.294Z"
+      "updated": "2022-09-01T05:52:25.825Z"
     },
     {
       "body": "Thanks, Dennis! I really enjoyed this project. I am going to add the backend also. I was having a problem with new notes not showing up until I refreshed the page. \nI see that you were able to get yours working, but mine didn't, so it wasn't lagging. I researched it and it was a hot reload issue. So I had to add an .env file with FAST_REFRESH=false in the file and that fixed the issue. Posting this in case anyone else had this issue.",
@@ -14,6 +14,11 @@
       "body": "Another new Note\n- today - 01-09-2022\n- React day",
       "updated": "2022-09-01T03:40:48.411Z",
       "id": 4
+    },
+    {
+      "body": "Let's build from here,\nThe complete developer platform to build, scale, and deliver secure software.",
+      "updated": "2022-09-01T05:54:01.401Z",
+      "id": 5
     }
   ]
 }

@@ -188,18 +188,19 @@ a {
 .notes-list-item h3,
 .notes-list-item p span {
   font-weight: 600;
+  color: var(--color-text);
 }
 
 
 .notes-list-item p span {
-  color: var(--color-gray);
+  color: var(--color-text);
   display: inline-block;
   margin-right: 8px;
 }
 
 .notes-list-item p {
   font-size: 14px;
-  color: var(--color-light);
+  color: var(--color-text);
 }
 
 .floating-button {
@@ -260,6 +261,7 @@ a {
 
 .note textarea {
   background-color: var(--color-white);
+  color: var(--color-text);
   border: none;
   padding: 16px 12px;
   width: 100%;
